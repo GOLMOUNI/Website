@@ -1,2 +1,0 @@
-FROM mounika/apache
-ADD . /var/www/html
